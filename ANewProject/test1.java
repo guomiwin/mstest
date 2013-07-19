@@ -1,7 +1,7 @@
 public class test1 {
 	int test1;
 	
-	int test111;
+	int test222;
 	
 	public void setTest111(int test111) {
 		this.test111 = test111;
